@@ -21,7 +21,7 @@
 *. completed button is pressed when the task is completed by the user
 
 ### additions to the task
-*. a numbering system is added to the tasks, each task is incremented by 1 as teh tasks are added
+*. a numbering system is added to the tasks, each task is incremented by 1 as the tasks are added
 *. if a task is deleted the umbers will re-order from 1 to x
 *. completed button allows the user to change the line from red to green and edit and delete button are hidden
 .  clearly highlighting the completed tasks from the un-completed tasks
