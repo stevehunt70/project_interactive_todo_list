@@ -13,6 +13,7 @@
 *. created with a header of project
 *. an input box for the user to type in their task
 *. add task button which takes task and puts it into an unordered list below
+*. function allowing to hit enter rather than the Add Task button
 *. Edit Delte and Complete buttons added
 
 ## button on click functions

@@ -17,6 +17,12 @@ addBtn.addEventListener('click', () => {
   taskInput.value = '';
 });
 
+taskInput.addEventListener('keydown', (event) => {
+  if(event.key === "Enter") {
+    addBtn.click();
+  }
+})
+
 /* create function for adding a new item to the list and add an edit and a delete button*/
 function addTaskToDOM(taskText) {
   const li = document.createElement('li');
